@@ -1,0 +1,270 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.7.19)  20 JUL 2021 02:47
+entering extended mode
+**./report.tex
+(report.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-07-12>
+(/home/manu/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(/home/manu/.miktex/texmfs/install/tex/latex/base/size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/home/manu/.miktex/texmfs/install/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/home/manu/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/home/manu/.miktex/texmfs/install/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/home/manu/.miktex/texmfs/install/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count190
+\Gm@cntv=\count191
+\c@Gm@tempcnt=\count192
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+
+(/home/manu/.miktex/texmfs/install/tex/latex/geometry/geometry.cfg))
+(/home/manu/.miktex/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+)
+(/home/manu/.miktex/texmfs/install/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(/home/manu/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/manu/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/manu/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/home/manu/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/home/manu/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+)
+(/home/manu/.miktex/texmfs/install/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-07-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box50
+)
+(report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 455.24411pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 702.78308pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=702.78308pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-23.91173pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/home/manu/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen149
+\scratchbox=\box51
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen150
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks21
+) (/home/manu/.miktex/texmfs/install/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/home/manu/.miktex/texmfs/install/tex/latex/00miktex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 11.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 11.
+
+
+LaTeX Warning: No \author given.
+
+<banniere.png, id=1, 164.7756pt x 99.7326pt>
+File: banniere.png Graphic file (type png)
+<use banniere.png>
+Package pdftex.def Info: banniere.png  used on input line 15.
+(pdftex.def)             Requested size: 164.77518pt x 99.73235pt.
+[1
+
+{/home/manu/.miktex/texmfs/data/pdftex/config/pdftex.map} <./banniere.png>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 56.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 56.
+<exemples_img.png, id=14, 1399.2275pt x 450.68375pt>
+File: exemples_img.png Graphic file (type png)
+<use exemples_img.png>
+Package pdftex.def Info: exemples_img.png  used on input line 66.
+(pdftex.def)             Requested size: 419.77148pt x 135.20616pt.
+<avg_img.png, id=15, 704.6325pt x 225.84375pt>
+File: avg_img.png Graphic file (type png)
+<use avg_img.png>
+Package pdftex.def Info: avg_img.png  used on input line 83.
+(pdftex.def)             Requested size: 352.3154pt x 112.92159pt.
+
+[2 <./exemples_img.png>]
+<edge_intensity.png, id=21, 390.45876pt x 263.98625pt>
+File: edge_intensity.png Graphic file (type png)
+<use edge_intensity.png>
+Package pdftex.def Info: edge_intensity.png  used on input line 99.
+(pdftex.def)             Requested size: 234.27705pt x 158.39296pt.
+<intensity_thresh.png, id=22, 390.45876pt x 263.98625pt>
+File: intensity_thresh.png Graphic file (type png)
+<use intensity_thresh.png>
+Package pdftex.def Info: intensity_thresh.png  used on input line 104.
+(pdftex.def)             Requested size: 234.27705pt x 158.39296pt.
+ [3 <./avg_img.png> <./edge_intensity.png> <./intensity_thresh.png>]
+<preprocess.png, id=30, 712.6625pt x 515.9275pt>
+File: preprocess.png Graphic file (type png)
+<use preprocess.png>
+Package pdftex.def Info: preprocess.png  used on input line 115.
+(pdftex.def)             Requested size: 285.05995pt x 206.36734pt.
+<lda.png, id=31, 883.3pt x 657.45625pt>
+File: lda.png Graphic file (type png)
+<use lda.png>
+Package pdftex.def Info: lda.png  used on input line 123.
+(pdftex.def)             Requested size: 353.31374pt x 262.97784pt.
+ [4 <./preprocess.png> <./lda.png>]
+<tsne.png, id=37, 730.73pt x 532.99126pt>
+File: tsne.png Graphic file (type png)
+<use tsne.png>
+Package pdftex.def Info: tsne.png  used on input line 134.
+(pdftex.def)             Requested size: 365.3641pt x 266.49498pt.
+
+Overfull \hbox (2.09232pt too wide) in paragraph at lines 137--140
+[]\T1/cmr/m/n/10 Aucun des preprocessings testés n'a permis de réduire les biai
+s de façon satisfaisante, tous les classifieurs
+ []
+
+<preprocess_comp.png, id=38, 1190.4475pt x 658.46pt>
+File: preprocess_comp.png Graphic file (type png)
+<use preprocess_comp.png>
+Package pdftex.def Info: preprocess_comp.png  used on input line 142.
+(pdftex.def)             Requested size: 357.13701pt x 197.53952pt.
+[5 <./tsne.png>]
+<unet.png, id=43, 712.6625pt x 473.77pt>
+File: unet.png Graphic file (type png)
+<use unet.png>
+Package pdftex.def Info: unet.png  used on input line 148.
+(pdftex.def)             Requested size: 427.6008pt x 284.26419pt.
+<acc_vgg_zb.png, id=44, 722.7pt x 279.0425pt>
+File: acc_vgg_zb.png Graphic file (type png)
+<use acc_vgg_zb.png>
+Package pdftex.def Info: acc_vgg_zb.png  used on input line 158.
+(pdftex.def)             Requested size: 361.3491pt x 139.5209pt.
+ [6 <./preprocess_comp.png> <./unet.png>]
+<interp.png, id=50, 854.19125pt x 277.035pt>
+File: interp.png Graphic file (type png)
+<use interp.png>
+Package pdftex.def Info: interp.png  used on input line 167.
+(pdftex.def)             Requested size: 427.09459pt x 138.51715pt.
+ [7 <./acc_vgg_zb.png> <./interp.png>] [8] (report.aux) ) 
+Here is how much of TeX's memory you used:
+ 2071 strings out of 480807
+ 29927 string characters out of 2900714
+ 328767 words of memory out of 3000000
+ 19746 multiletter control sequences out of 15000+600000
+ 411801 words of font info for 44 fonts, out of 8000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 57i,7n,66p,498b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/manu/.miktex/t
+exmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecti1000.pk> </home/manu/.miktex/
+texmfs/data/fonts/pk/ljfour/public/cm/dpi600/cmsy10.pk> </home/manu/.miktex/tex
+mfs/data/fonts/pk/ljfour/public/cm/dpi600/cmr10.pk> </home/manu/.miktex/texmfs/
+data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1000.pk> </home/manu/.miktex/texmfs
+/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1000.pk> </home/manu/.miktex/texmf
+s/data/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1000.pk> </home/manu/.miktex/texm
+fs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecbx1440.pk> </home/manu/.miktex/tex
+mfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1200.pk> </home/manu/.miktex/te
+xmfs/data/fonts/pk/ljfour/jknappen/ec/dpi600/ecrm1728.pk>
+Output written on report.pdf (8 pages, 5914988 bytes).
+PDF statistics:
+ 290 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+

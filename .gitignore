@@ -1,0 +1,11 @@
+.DS_Store
+/data/COVID-19/**
+/data/NORMAL/**
+/data/Viral Pneumonia/**
+/data/SUP/**
+data/**.npy
+**/__pycache__
+models/*.h5
+models/saved_weights/*.h5
+**/.ipynb_checkpoints
+.ipynb_checkpoints
